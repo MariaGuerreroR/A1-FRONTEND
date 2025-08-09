@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = 'https://a1-backend-vn4z.onrender.com';
 
 // Create axios instance with default config
 import axios from 'axios';
